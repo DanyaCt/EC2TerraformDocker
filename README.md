@@ -10,7 +10,7 @@ Clone repository to your computer
 ```
 git clone https://github.com/DanyaCt/EC2TerraformDocker.git
 ```
-Also you need download Terraform and AWS CLI, you can use these links:
+Also you need to download Terraform and AWS CLI, you can use these links:
 
 >Terraform: https://developer.hashicorp.com/terraform/downloads
 >
